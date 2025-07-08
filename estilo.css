@@ -1,0 +1,79 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+ul {
+    line-height: 2;
+}
+
+.imagem-hobby {
+    width: 300px;
+    border-radius: 15px;
+    display: block;
+    margin: 20px auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #888;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+.bandeira {
+    width: 100px;
+    border-radius: 10px;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff6600;
+}
+
+button {
+    display: block;
+    margin: 30px auto 10px;
+    padding: 10px 20px;
+    background-color: #007acc;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005fa3;
+}
+
+#mensagem {
+    text-align: center;
+    color: #2d862d;
+    font-weight: bold;
+    font-size: 18px;
+}
